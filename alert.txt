@@ -1,0 +1,4 @@
+number:8421949251
+english:"Hello this is cyberSentinel Ai"
+hindi:"Hello mein cybersentinel AI me se bat krra hu "
+marathi:"hello me cybersentinel ai madhan bolt ahe"
